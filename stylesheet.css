@@ -1,4 +1,4 @@
-@import url(type/font-awesome);
+@import url(type/font-awesome.css);
 @font-face {
   font-family: "Computer Modern";
   src: local("CMU Serif Roman"), url(type/cmu-serif-roman);

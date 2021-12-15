@@ -1,0 +1,8 @@
+#ForceType application/x-font-opentype
+#MultiViewsMatch Filters Handlers
+DirectoryIndex index.css
+#AddEncoding gzip .gz
+#AddType application/x-font-opentype .otf .otf.gz
+<Files "*.otf.gz">
+ForceType application/x-font-opentype
+</Files>

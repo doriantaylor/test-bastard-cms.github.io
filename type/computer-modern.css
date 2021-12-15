@@ -1,0 +1,87 @@
+@font-face {
+   font-family: "Computer Modern";
+   src: local("CMU Serif Roman"), url(/type/cmu-serif-roman);
+   font-stretch: normal;
+   font-style: normal;
+   font-weight: normal;
+}
+
+@font-face {
+   font-family: "Computer Modern";
+   src: local("CMU Serif Italic"), url(/type/cmu-serif-italic);
+   font-stretch: normal;
+   font-style: italic;
+   font-weight: normal;
+}
+
+@font-face {
+   font-family: "Computer Modern";
+   src: local("CMU Serif Roman Bold Nonextended"), url(/type/cmu-serif-bold-nonextended);
+   font-stretch: normal;
+   font-style: normal;
+   font-weight: bold;
+}
+
+@font-face {
+   font-family: "Computer Modern";
+   src: local("CMU Serif Bold Extended Roman"), url(/type/cmu-serif-bold);
+   font-stretch: expanded;
+   font-style: normal;
+   font-weight: bold;
+}
+
+@font-face {
+   font-family: "Computer Modern";
+   src: local("CMU Serif BoldItalic"), url(/type/cmu-serif-bold-italic);
+   font-stretch: normal;
+   font-style: italic;
+   font-weight: bold;
+}
+
+@font-face {
+   font-family: "Computer Modern Bright";
+   src: local("CMU Bright Roman"), url(/type/cmu-bright-roman);
+   font-stretch: normal;
+   font-style: normal;
+   font-weight: normal;
+}
+
+@font-face {
+   font-family: "Computer Modern Bright";
+   src: local("CMU Bright Oblique"), url(/type/cmu-bright-oblique);
+   font-stretch: normal;
+   font-style: italic;
+   font-weight: normal;
+}
+
+@font-face {
+   font-family: "Computer Modern Bright";
+   src: local("CMU Bright SemiBold"), url(/type/cmu-bright-semibold);
+   font-stretch: normal;
+   font-style: normal;
+   font-weight: 600;
+}
+
+@font-face {
+   font-family: "Computer Modern Bright";
+   src: local("CMU Bright SemiBold Oblique"), url(/type/cmu-bright-semibold-oblique);
+   font-stretch: normal;
+   font-style: italic;
+   font-weight: 600;
+}
+
+@font-face {
+   font-family: "Computer Modern Bright";
+   src: local("CMU Bright Bold Extended"), url(/type/cmu-bright-bold);
+   font-stretch: normal;
+   font-style: normal;
+   font-weight: bold;
+}
+
+@font-face {
+   font-family: "Computer Modern Bright";
+   src: local("CMU Bright Bold Extended Oblique"), url(/type/cmu-bright-bold-oblique);
+   font-stretch: normal;
+   font-style: italic;
+   font-weight: bold;
+}
