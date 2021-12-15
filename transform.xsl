@@ -66,9 +66,9 @@
       </xsl:apply-templates>
       </template>
     </xsl:for-each>
-    <link rel="stylesheet" type="text/css" href="/stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
     <meta name="viewport" content="width=device-width, initial-scale=0.6, maximum-scale=2.0"/>
-    <script type="text/javascript" src="/asset/utilities"></script>
+    <script type="text/javascript" src="asset/utilities.js"></script>
   </head>
 </xsl:template>
 
