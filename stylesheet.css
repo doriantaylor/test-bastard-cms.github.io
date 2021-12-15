@@ -1,7 +1,7 @@
-@import url(/type/font-awesome);
+@import url(type/font-awesome);
 @font-face {
   font-family: "Computer Modern";
-  src: local("CMU Serif Roman"), url(/type/cmu-serif-roman);
+  src: local("CMU Serif Roman"), url(type/cmu-serif-roman);
   font-stretch: normal;
   font-style: normal;
   font-weight: normal;
@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: "Computer Modern";
-  src: local("CMU Serif Italic"), url(/type/cmu-serif-italic);
+  src: local("CMU Serif Italic"), url(type/cmu-serif-italic);
   font-stretch: normal;
   font-style: italic;
   font-weight: normal;
@@ -17,7 +17,7 @@
 
 @font-face {
   font-family: "Computer Modern";
-  src: local("CMU Serif Roman Bold Nonextended"), url(/type/cmu-serif-bold-nonextended);
+  src: local("CMU Serif Roman Bold Nonextended"), url(type/cmu-serif-bold-nonextended);
   font-stretch: normal;
   font-style: normal;
   font-weight: bold;
@@ -25,7 +25,7 @@
 
 @font-face {
   font-family: "Computer Modern";
-  src: local("CMU Serif Bold Extended Roman"), url(/type/cmu-serif-bold);
+  src: local("CMU Serif Bold Extended Roman"), url(type/cmu-serif-bold);
   font-stretch: expanded;
   font-style: normal;
   font-weight: bold;
@@ -33,7 +33,7 @@
 
 @font-face {
   font-family: "Computer Modern";
-  src: local("CMU Serif BoldItalic"), url(/type/cmu-serif-bold-italic);
+  src: local("CMU Serif BoldItalic"), url(type/cmu-serif-bold-italic);
   font-stretch: normal;
   font-style: italic;
   font-weight: bold;
@@ -41,7 +41,7 @@
 
 @font-face {
   font-family: "Computer Modern Bright";
-  src: local("CMU Bright Roman"), url(/type/cmu-bright-roman);
+  src: local("CMU Bright Roman"), url(type/cmu-bright-roman);
   font-stretch: normal;
   font-style: normal;
   font-weight: normal;
@@ -49,7 +49,7 @@
 
 @font-face {
   font-family: "Computer Modern Bright";
-  src: local("CMU Bright Oblique"), url(/type/cmu-bright-oblique);
+  src: local("CMU Bright Oblique"), url(type/cmu-bright-oblique);
   font-stretch: normal;
   font-style: italic;
   font-weight: normal;
@@ -57,7 +57,7 @@
 
 @font-face {
   font-family: "Computer Modern Bright";
-  src: local("CMU Bright SemiBold"), url(/type/cmu-bright-semibold);
+  src: local("CMU Bright SemiBold"), url(type/cmu-bright-semibold);
   font-stretch: normal;
   font-style: normal;
   font-weight: 600;
@@ -65,7 +65,7 @@
 
 @font-face {
   font-family: "Computer Modern Bright";
-  src: local("CMU Bright SemiBold Oblique"), url(/type/cmu-bright-semibold-oblique);
+  src: local("CMU Bright SemiBold Oblique"), url(type/cmu-bright-semibold-oblique);
   font-stretch: normal;
   font-style: italic;
   font-weight: 600;
@@ -73,7 +73,7 @@
 
 @font-face {
   font-family: "Computer Modern Bright";
-  src: local("CMU Bright Bold Extended"), url(/type/cmu-bright-bold);
+  src: local("CMU Bright Bold Extended"), url(type/cmu-bright-bold);
   font-stretch: normal;
   font-style: normal;
   font-weight: bold;
@@ -81,7 +81,7 @@
 
 @font-face {
   font-family: "Computer Modern Bright";
-  src: local("CMU Bright Bold Extended Oblique"), url(/type/cmu-bright-bold-oblique);
+  src: local("CMU Bright Bold Extended Oblique"), url(type/cmu-bright-bold-oblique);
   font-stretch: expanded;
   font-style: italic;
   font-weight: bold;
@@ -89,32 +89,32 @@
 
 @font-face {
   font-family: "Fira Code";
-  src: url("/type/fira-code/light.eot");
-  src: url("/type/fira-code/light.eot") format("embedded-opentype"), url("/type/fira-code/light.woff2") format("woff2"), url("/type/fira-code/light.woff") format("woff"), url("/type/fira-code/light.ttf") format("ttf");
+  src: url("type/fira-code/light.eot");
+  src: url("type/fira-code/light.eot") format("embedded-opentype"), url("type/fira-code/light.woff2") format("woff2"), url("type/fira-code/light.woff") format("woff"), url("type/fira-code/light.ttf") format("ttf");
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Fira Code";
-  src: url("/type/fira-code/regular.eot");
-  src: url("/type/fira-code/regular.eot") format("embedded-opentype"), url("/type/fira-code/regular.woff2") format("woff2"), url("/type/fira-code/regular.woff") format("woff"), url("/type/fira-code/regular.ttf") format("ttf");
+  src: url("type/fira-code/regular.eot");
+  src: url("type/fira-code/regular.eot") format("embedded-opentype"), url("type/fira-code/regular.woff2") format("woff2"), url("type/fira-code/regular.woff") format("woff"), url("type/fira-code/regular.ttf") format("ttf");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Fira Code";
-  src: url("/type/fira-code/medium.eot");
-  src: url("/type/fira-code/medium.eot") format("embedded-opentype"), url("/type/fira-code/medium.woff2") format("woff2"), url("/type/fira-code/medium.woff") format("woff"), url("/type/fira-code/medium.ttf") format("ttf");
+  src: url("type/fira-code/medium.eot");
+  src: url("type/fira-code/medium.eot") format("embedded-opentype"), url("type/fira-code/medium.woff2") format("woff2"), url("type/fira-code/medium.woff") format("woff"), url("type/fira-code/medium.ttf") format("ttf");
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Fira Code";
-  src: url("/type/fira-code/bold.eot");
-  src: url("/type/fira-code/bold.eot") format("embedded-opentype"), url("/type/fira-code/bold.woff2") format("woff2"), url("/type/fira-code/bold.woff") format("woff"), url("/type/fira-code/bold.ttf") format("ttf");
+  src: url("type/fira-code/bold.eot");
+  src: url("type/fira-code/bold.eot") format("embedded-opentype"), url("type/fira-code/bold.woff2") format("woff2"), url("type/fira-code/bold.woff") format("woff"), url("type/fira-code/bold.ttf") format("ttf");
   font-weight: 700;
   font-style: normal;
 }
@@ -141,7 +141,7 @@ body {
 }
 
 body.draft {
-  background-image: url(/asset/draft);
+  background-image: url(asset/draft);
 }
 
 body.draft > header > h1:before {
@@ -149,7 +149,7 @@ body.draft > header > h1:before {
 }
 
 body.circulated, body.draft.circulated {
-  background-image: url(/asset/circulated);
+  background-image: url(asset/circulated);
 }
 
 body.circulated > header > h1:before, body.draft.circulated > header > h1:before {
@@ -157,7 +157,7 @@ body.circulated > header > h1:before, body.draft.circulated > header > h1:before
 }
 
 body.confidential {
-  background-image: url(/asset/confidential);
+  background-image: url(asset/confidential);
 }
 
 /* headings and counters */
