@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/transform"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Protected (sort of) by LazyAuth</title>
+  </head>
+  <body>
+    <p>This resource is protected&#x2014;for some definition of the term&#x2014;by <a href="https://github.com/doriantaylor/rb-lazyauth">LazyAuth</a>. If you are supposed to have access, you should have gotten an email or other kind of message containing a special link. If you're seeing this page, it means you need to go back to that link and click through it to refresh your access.</p>
+  </body>
+</html>
