@@ -13,8 +13,8 @@
                 xmlns="http://www.w3.org/1999/xhtml"
                 exclude-result-prefixes="html rdf svg xlink rdfa uri xhv str xc">
 
-<xsl:import href="/asset/rdfa"/>
-<xsl:import href="/asset/transclude"/>
+<xsl:import href="asset/rdfa.xsl"/>
+<xsl:import href="asset/transclude.xsl"/>
 
 <!--<xsl:output method="xml" indent="yes" media-type="text/html"/>-->
 <xsl:output
