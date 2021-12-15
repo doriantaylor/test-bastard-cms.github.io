@@ -1,7 +1,7 @@
 @import url(type/font-awesome.css);
 @font-face {
   font-family: "Computer Modern";
-  src: local("CMU Serif Roman"), url(type/cmu-serif-roman);
+  src: local("CMU Serif Roman"), url(type/cmu-serif-roman.otf);
   font-stretch: normal;
   font-style: normal;
   font-weight: normal;
@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: "Computer Modern";
-  src: local("CMU Serif Italic"), url(type/cmu-serif-italic);
+  src: local("CMU Serif Italic"), url(type/cmu-serif-italic.otf);
   font-stretch: normal;
   font-style: italic;
   font-weight: normal;
@@ -17,7 +17,7 @@
 
 @font-face {
   font-family: "Computer Modern";
-  src: local("CMU Serif Roman Bold Nonextended"), url(type/cmu-serif-bold-nonextended);
+  src: local("CMU Serif Roman Bold Nonextended"), url(type/cmu-serif-bold-nonextended.otf);
   font-stretch: normal;
   font-style: normal;
   font-weight: bold;
@@ -25,7 +25,7 @@
 
 @font-face {
   font-family: "Computer Modern";
-  src: local("CMU Serif Bold Extended Roman"), url(type/cmu-serif-bold);
+  src: local("CMU Serif Bold Extended Roman"), url(type/cmu-serif-bold.otf);
   font-stretch: expanded;
   font-style: normal;
   font-weight: bold;
@@ -33,7 +33,7 @@
 
 @font-face {
   font-family: "Computer Modern";
-  src: local("CMU Serif BoldItalic"), url(type/cmu-serif-bold-italic);
+  src: local("CMU Serif BoldItalic"), url(type/cmu-serif-bold-italic.otf);
   font-stretch: normal;
   font-style: italic;
   font-weight: bold;
@@ -41,7 +41,7 @@
 
 @font-face {
   font-family: "Computer Modern Bright";
-  src: local("CMU Bright Roman"), url(type/cmu-bright-roman);
+  src: local("CMU Bright Roman"), url(type/cmu-bright-roman.otf);
   font-stretch: normal;
   font-style: normal;
   font-weight: normal;
@@ -49,7 +49,7 @@
 
 @font-face {
   font-family: "Computer Modern Bright";
-  src: local("CMU Bright Oblique"), url(type/cmu-bright-oblique);
+  src: local("CMU Bright Oblique"), url(type/cmu-bright-oblique.otf);
   font-stretch: normal;
   font-style: italic;
   font-weight: normal;
@@ -57,7 +57,7 @@
 
 @font-face {
   font-family: "Computer Modern Bright";
-  src: local("CMU Bright SemiBold"), url(type/cmu-bright-semibold);
+  src: local("CMU Bright SemiBold"), url(type/cmu-bright-semibold.otf);
   font-stretch: normal;
   font-style: normal;
   font-weight: 600;
@@ -65,7 +65,7 @@
 
 @font-face {
   font-family: "Computer Modern Bright";
-  src: local("CMU Bright SemiBold Oblique"), url(type/cmu-bright-semibold-oblique);
+  src: local("CMU Bright SemiBold Oblique"), url(type/cmu-bright-semibold-oblique.otf);
   font-stretch: normal;
   font-style: italic;
   font-weight: 600;
@@ -73,7 +73,7 @@
 
 @font-face {
   font-family: "Computer Modern Bright";
-  src: local("CMU Bright Bold Extended"), url(type/cmu-bright-bold);
+  src: local("CMU Bright Bold Extended"), url(type/cmu-bright-bold.otf);
   font-stretch: normal;
   font-style: normal;
   font-weight: bold;
@@ -81,7 +81,7 @@
 
 @font-face {
   font-family: "Computer Modern Bright";
-  src: local("CMU Bright Bold Extended Oblique"), url(type/cmu-bright-bold-oblique);
+  src: local("CMU Bright Bold Extended Oblique"), url(type/cmu-bright-bold-oblique.otf);
   font-stretch: expanded;
   font-style: italic;
   font-weight: bold;
